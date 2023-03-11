@@ -1,60 +1,44 @@
-# Cybersecurity Work and Study
+# Cybersecurity Studies
 
-This repository is for my cybersecurity studies and practice, including exercises and projects related to various cyber security roles, such as pentester, SOC analyst, incident response, threat analysis, secure DevOps, and automation. I will be using Python, C, C++, and Rust for implementations and work, as well as Linux knowledge, database knowledge, and cloud computing experience with Azure and AWS.
+This repository is dedicated to my studies in cybersecurity. I will be covering various topics relating to cybersecurity, including but not limited to: pentesting, SOC analysis, incident response, threat analysis, secure DevOps, automation, and more.
 
-## Daily Code Commits
+## Coding Knowledge
 
-I will commit code whenever possible to keep track of my progress in my cybersecurity studies.
+To be successful in cybersecurity roles, knowledge of various programming languages is required. I will be utilizing Python, C, C++, and Rust for my implementations and work. In addition, knowledge of Linux, databases, and cloud computing platforms like Azure and AWS will also be necessary.
 
-## Repository Structure
+## Commitment
 
-This repository is organized into subdirectories based on different cyber security roles and topics. The structure of the repository is as follows:
-
-cybersecurity-studies/  
-
-├── pentester/  
-
-├── SOC-analyst/  
-
-├── incident-response/  
-
-├── threat-analysis/  
-
-├── secure-DevOps/  
-
-├── automation/  
-
-├── cryptography/  
-
-└── ...  
-
-
-## Study Topics
-
-In my studies, I will be covering a range of topics, including:
-
-- Cryptographic primitives, protocols, and networks
-- Asymmetric cryptography
-- Symmetric cryptography
-- Hash functions
-- Key exchanges
-- Digital signatures
-- Other schemes
-
-## References
-
-I will be using the following references in my studies:
-
-- [Crypto Done Right Quickstarts](https://cryptodoneright.org/quickstarts/dev.html)
-- Handbook of Applied Cryptography by Alfred Menezes, Paul C. van Oorschot, and Scott A. Vanstone
-- Applied Cryptography by Bruce Schneier
-- Real World Cryptography by David Wong
-- Practical Cryptography in Python by Seth James Nielson and Christopher Monson
-- Mastering Blockchain and Mastering Ethereum by Andreas M. Antonopoulos and Gavin Wood
-- Blockchain in Action by Bina Ramamurthy
-- Online resources like freecodecamp.org and Simplilearn
+I will commit code as frequently as possible, but no strict schedule will be followed.
 
 ## Certifications
 
-I am currently studying for my CompTIA Security+ and Network+ certifications, which I plan to obtain by the end of the summer of 2023. My goal is to pursue a career in security engineering, starting with a focus on purple hat and white box techniques.
+I am currently studying for my CompTIA Security+ and Network+ certifications, and expect to obtain them by the end of Summer 2023.
+
+## Career Goals
+
+My ultimate goal is to pursue a career in Security Engineering, but I will start by focusing on purple hat and white box roles.
+
+## Topics
+
+I will be covering a range of topics related to cybersecurity, including:
+
+- Zero Trust
+- Zero Knowledge
+- Automation
+- Machine Learning for Signature Detection
+- SOAR (Security Orchestration, Automation and Response)
+
+## Resources
+
+I will be utilizing a variety of resources for my studies, including:
+
+- CompTIA Security+ and Network+ study materials
+- Professor Messer YouTube channel
+- NIST (National Institute of Standards and Technology)
+- MITRE
+- Future resources to be named later
+
+Thank you for following my cybersecurity journey.
+
+
 
