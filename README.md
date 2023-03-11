@@ -10,15 +10,24 @@ I will commit code whenever possible to keep track of my progress in my cybersec
 
 This repository is organized into subdirectories based on different cyber security roles and topics. The structure of the repository is as follows:
 
-cybersecurity-studies/
-├── pentester/
-├── SOC-analyst/
-├── incident-response/
-├── threat-analysis/
-├── secure-DevOps/
-├── automation/
-├── cryptography/
-└── ...
+cybersecurity-studies/  
+
+├── pentester/  
+
+├── SOC-analyst/  
+
+├── incident-response/  
+
+├── threat-analysis/  
+
+├── secure-DevOps/  
+
+├── automation/  
+
+├── cryptography/  
+
+└── ...  
+
 
 ## Study Topics
 
